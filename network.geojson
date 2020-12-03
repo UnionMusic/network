@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beijing",
+                "region": "China",
+                "status": "Online",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    116.40739,
+                    39.90419
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Shanghai",
+                "region": "China",
+                "status": "Online",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    121.47370,
+                    31.23039
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Chengdu",
+                "region": "China",
+                "status": "Coming sonn",
+                "marker-size": "medium",
+                "marker-color": "#888888",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    104.066002,
+                    30.657000
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Hong Kong",
+                "region": "Asia Pacific",
+                "zone": 3,
+                "status": "Online",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    114.109497,
+                    22.396428
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
